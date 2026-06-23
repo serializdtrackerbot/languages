@@ -1,6 +1,8 @@
 {
-  "_meta": { "name": "English (US)", "order": 0 },
-
+  "_meta": {
+    "name": "English (US)",
+    "order": 0
+  },
   "common.no_permission": "❌ Administrator permission required.",
   "common.no_command_permission": "❌ You do not have permission to use this command.",
   "common.guild_only": "❌ This command can only be used inside a server.",
@@ -12,7 +14,6 @@
   "common.prev": "◀ Previous",
   "common.next": "Next ▶",
   "common.page_of": "Page {page}/{pages}",
-
   "language.set": "✅ Server language set to **{language}**.\nResponses in this server will now use this language where available.",
   "language.reset": "✅ Server language reset to the default (**{default}**).",
   "language.cmd_title": "🌐 Server Language",
@@ -20,9 +21,8 @@
   "language.select_placeholder": "Select a language...",
   "language.opt_default": "Default (English US)",
   "language.help_title": "🤝 Help translate",
-  "language.help_text": "Want the bot in your language, or spotted a wrong translation? You can help! Add or fix translations on our GitHub. Feel free to create a brand new language, just follow the guidelines in the repo and upload it.\n{url}",
+  "language.help_text": "Translations are machine-generated, so they may not be 100% accurate. Want the bot in your language, or spotted a wrong translation? You can help! Add or fix translations on our GitHub. Feel free to create a brand new language, just follow the guidelines in the repo and upload it.\n{url}",
   "language.btn_github": "Translate on GitHub",
-
   "tracking.add_anyway_btn": "Add Anyway",
   "tracking.skip_btn": "Skip These",
   "tracking.force_added": "✅ Force-added: {users}",
@@ -93,7 +93,6 @@
   "tracking.test_example_name": "Example Entry",
   "tracking.test_fail_name": "❌ Result",
   "tracking.test_fail_value": "**FAILED** - Could not fetch diary entries.\n\n**Possible causes:**\n• Username is incorrect (check spelling/case)\n• Profile doesn't exist\n• Profile/diary is private\n• User has no diary entries yet\n\n**Solutions:**\n• Verify username at the profile URL above\n• Check if diary is viewable in incognito mode\n• Try a different username",
-
   "setup.btn_get_started": "Get Started",
   "setup.btn_start_setup": "Start Setup",
   "setup.btn_next": "Next",
@@ -128,9 +127,9 @@
   "setup.footer_optional": "Step {step} of {total} • Optional",
   "setup.summary_footer": "{footer} • Enjoy!",
   "setup.lang_title": "🌐 Step 1: Choose Your Language",
-  "setup.lang_desc": "Pick the language the bot replies in for this server. You can change it anytime with `/language`.\n\nPartially-translated languages fall back to English for anything not yet translated.",
+  "setup.lang_desc": "Pick the language the bot replies in for this server. You can change it anytime with `/language`.\n\nTranslations are machine-generated and may not be 100% accurate, feel free to help fix them with `/language`.\n\nPartially-translated languages fall back to English for anything not yet translated.",
   "setup.lang_selected_name": "✅ Selected Language",
-  "setup.welcome_title":"🎉 Welcome to Serializd Bot Setup!",
+  "setup.welcome_title": "🎉 Welcome to Serializd Bot Setup!",
   "setup.welcome_desc": "Thanks for adding me to **{guild}**!\n\nI'll help you track [Serializd](https://www.serializd.com/) diary entries and share them with your community. This wizard will guide you through the setup process.\n\n**📝 Note:** You'll need a Serializd account to track your TV show activity.\n\n**What we'll configure:**\n📺 Diary post channel\n📡 Optional: New episode alerts channel\n📢 Optional: Bot update notifications\n💬 Optional: Command restrictions\n🔗 Optional: Sharelink channel\n🎨 Optional: Custom embed colors\n\n💡 **Tip:** Use `/features` after setup to see everything this bot can do.",
   "setup.welcome_time_name": "⏱️ Estimated Time",
   "setup.welcome_time_value": "2-3 minutes",
@@ -239,7 +238,6 @@
   "setup.anon_updated_title": "✅ Privacy Settings Updated",
   "setup.anon_updated_footer": "Changes apply to /stats global leaderboards only",
   "setup.anon_no_changes": "ℹ️ No changes were made.",
-
   "social.embed_title": "📺 {name}'s Profile Links",
   "social.view_profile": "View Profile",
   "social.no_platforms": "*No platforms linked yet.*",
@@ -260,7 +258,6 @@
   "social.cleared_desc": "Cleared sharelink for {user}. They can now submit a new one.",
   "social.clear_confirm_title": "Clear Sharelink",
   "social.clear_confirm_desc": "Are you sure you want to clear the sharelink for {user}?\n\n- Their current sharelink will be deleted\n- They will be able to submit a new one",
-
   "usettings.tz_invalid": "❌ **{tz}** isn't a valid IANA timezone.\nExamples: `Europe/Copenhagen`, `America/New_York`, `Asia/Tokyo`\nFull list: <https://en.wikipedia.org/wiki/List_of_tz_database_time_zones>",
   "usettings.tz_set": "✅ Your timezone has been set to **{tz}**.\nThis overrides the server default for you.",
   "usettings.tz_guild_reset": "✅ Server timezone reset to global default (**{tz}**).",
@@ -292,7 +289,6 @@
   "usettings.opted_in_desc": "Admins can now add you to diary tracking again.\nUse `/opt-out` anytime to reverse this.",
   "usettings.cancelled_title": "↩️ Cancelled",
   "usettings.cancelled_desc": "No changes made.",
-
   "profile.select_placeholder": "Select a view...",
   "profile.tab_profile": "📊 Profile",
   "profile.tab_logged": "📝 Logged",
@@ -376,7 +372,6 @@
   "profile.n_episodes": "{n} ep(s)",
   "profile.premiered": "Premiered <t:{ts}:D>",
   "profile.no_show_link": "No link",
-
   "stats.btn_guild": "Guild Stats",
   "stats.btn_global": "Global Stats",
   "stats.btn_top_watchers": "👥 Top Watchers",
@@ -473,7 +468,6 @@
   "stats.month_10": "October",
   "stats.month_11": "November",
   "stats.month_12": "December",
-
   "embed.unknown_show": "Unknown Show",
   "embed.running": "🔴 Running",
   "embed.ended": "✅ Ended",
@@ -491,7 +485,6 @@
   "embed.author_watched": "watched",
   "embed.runtime": "**Runtime:** {n} min",
   "embed.release_year": "**Release Year:** {year}",
-
   "group.episodes_range": "Episodes {first}-{last}",
   "group.episodes_list": "Episodes {list}",
   "group.view_review": "🔗 View Review",
@@ -499,7 +492,6 @@
   "group.avg_runtime": "**Average Runtime:** {n} min",
   "group.mixed_title": "⚠️ Mixed seasons",
   "group.mixed_value": "Entries from multiple seasons ({seasons}) were grouped together. This is unexpected.",
-
   "recap.weekly_title": "📅 Weekly Recap",
   "recap.monthly_title": "🗓️ Monthly Recap",
   "recap.description": "**{guild}** - {period}",
@@ -520,7 +512,6 @@
   "recap.period_week": "Week",
   "recap.period_month": "Month",
   "recap.position": "{period} {n}/{total}",
-
   "watching.new_episode_title": "📺 New Episode: {show}",
   "watching.episode_line": "**S{season}E{episode}** - {name}",
   "watching.one_watching": "\n👤 {user} is watching",
@@ -530,7 +521,6 @@
   "watching.aired": "**Aired:** {date}",
   "watching.at_time": " at {time}",
   "watching.air_date_name": "📅 Air Date",
-
   "roles.opt_enabled": "enabled",
   "roles.opt_disabled": "disabled",
   "roles.opt_desc_alias": "Currently {state} - toggles all diary commands",
@@ -564,7 +554,6 @@
   "roles.already_in": "⚠️ {target} is already in the **{group}** group.",
   "roles.removed": "✅ Removed {target} from the **{group}** group.",
   "roles.not_in": "⚠️ {target} was not in the **{group}** group.",
-
   "cfgshare.preview_title": "📋 Config Code: `{code}`",
   "cfgshare.from_guild": "From: **{guild}**",
   "cfgshare.shared_snapshot": "Shared config snapshot",
@@ -618,7 +607,6 @@
   "cfgshare.grp_admin": "admin",
   "cfgshare.grp_mod": "mod",
   "cfgshare.grp_user": "user",
-
   "patreon.hof_title": "💖 Serializd Tracker Hall of Fame",
   "patreon.hof_desc": "These amazing people made a one-time commitment to keep the bot alive & thriving forever. Their names are etched here permanently, thank you from the bottom of my heart!\n\n**Hall of Fame Members:**",
   "patreon.be_first": "Be the first to support!",
@@ -635,9 +623,7 @@
   "patreon.color_cancel_title": "❌ Cancelled",
   "patreon.color_cancel_desc": "Color change cancelled",
   "patreon.color_invalid": "❌ Invalid hex color code.\n**Examples:**\n• `/setcolor FF5733`\n• `/setcolor #00FF00`\n• `/setcolor default` (reset to purple)",
-
   "yumi.title": "This is my cute cat Yumi ♡",
-
   "settings.plat_enable": "Click to enable",
   "settings.plat_disable": "Click to disable",
   "settings.plat_placeholder": "Toggle a platform on/off...",
@@ -995,7 +981,6 @@
   "settings.vis_review_on": "Review Links: Enable",
   "settings.vis_review_off": "Review Links: Disable",
   "settings.g_auto_thread_enabled": "✅ **Auto Thread enabled for Group Diary**\nA thread will be created on the first diary embed for a show/season, titled:\n`Show Name · SX · EN`\nAs more episodes are logged, the thread name updates to show the full range:\n`Show Name · S1 · E1-12`\n\n⚠️ **Required bot permissions in the diary channel:**\n- **Create Public Threads** - lets the bot open threads on messages\n- **Send Messages in Threads** - lets the bot post inside threads\n- **Manage Threads** - lets the bot rename the thread as the episode range grows\n\n*(Server Settings → Roles → Bot role, or set per-channel in Channel Settings → Permissions)*",
-
   "audit.cat_all": "📋 All",
   "audit.cat_diary": "📖 Diary",
   "audit.cat_group": "📦 Group Diary",
@@ -1040,7 +1025,6 @@
   "settings.dlink_private_desc": "Your guild name is **private** in the global stats leaderboard (shown as Guild #XXXX).\n\nA Discord invite link only shows when your guild name is **public**.\n\nWould you like to make your guild name public and set the invite link?",
   "settings.dlink_private_footer": "Only Discord Administrators can opt in",
   "settings.dlink_set": "✅ Discord invite link set to: {link}\n\nYour guild name will now be clickable in global stats.\n*To remove: `/setdiscordlink remove`*",
-
   "bg.drop_title": "⚠️ Diary Post Dropped",
   "bg.drop_intro": "A diary entry for **{username}** was dropped after {retries} failed delivery attempts.\n\n",
   "bg.drop_cause_perms": "**Likely cause:** the bot is missing `Send Messages` or `Embed Links` in **#{channel}**.\n\n**Fix:**\n- Grant the bot role those permissions in that channel, or\n- Move diary posts elsewhere with `/setchannel`.\n\nPosts will keep dropping silently until permissions are restored.",
@@ -1053,9 +1037,7 @@
   "bg.welcome_title": "🎨 Customize Your Diary Entries",
   "bg.welcome_desc": "You can customize how diary entries look in your server!\n\nUse `/settings` to configure:\n• Which fields to show/hide\n• Timestamp format\n• Thumbnail priority\n• Embed color\n• Role pings\n• And much more!\n\n*This is a one-time message. Visit `/settings` anytime to customize.*",
   "bg.welcome_footer": "💡 Tip: Use /settings",
-
   "info.your_server": "Your Server",
-
   "info.cmds.main_title": "📋 Bot Commands",
   "info.cmds.main_desc": "Click a category below to view commands:",
   "info.cmds.main_footer": "Use buttons below to view command categories",
@@ -1099,7 +1081,6 @@
   "info.cmds.rules_enforce_name": "⚖️ Enforcement",
   "info.cmds.rules_enforce_value": "Offensive names are auto-filtered from global stats. The bot owner can force a server anonymous and lock it from going public again.",
   "info.cmds.already_overview": "Already on overview!",
-
   "info.btn.overview": "📋 Overview",
   "info.btn.user": "User Commands",
   "info.btn.setup": "Setup & Config",
@@ -1107,7 +1088,6 @@
   "info.btn.management": "Management",
   "info.btn.rules": "📜 Stats Rules",
   "info.btn.features": "✨ Features",
-
   "info.features.p1_title": "✨ Bot Features (1/2) - Core",
   "info.features.p1_desc": "Here's what **{guild}** has access to:",
   "info.features.p1_footer": "Page 1/2 - press Next for more features | {footer}",
@@ -1134,7 +1114,6 @@
   "info.features.perms_value": "Three built-in permission groups: **Admin**, **Mod**, and **User**\nAssign Discord roles or members to groups with `/roleadd`\nToggle individual commands per group with `/roleview`\nSet a ping role for new diary entry notifications via `/diary format`",
   "info.features.changelog_name": "📢 Changelog & Bot Info - `/changelog` `/uptime`",
   "info.features.changelog_value": "Set a changelog channel to receive automatic bot update announcements\nUse `/changelog` to view the most recent update and `/uptime` for availability stats\nAnonymous mode hides your server from global leaderboards - toggle in `/settings`",
-
   "info.uptime.title": "📡 Bot Uptime",
   "info.uptime.maintenance": "🔧 **Maintenance mode** - alerts suppressed",
   "info.uptime.online_since": "Online since <t:{ts}:F> (<t:{ts}:R>)",
@@ -1158,7 +1137,6 @@
   "info.uptime.net_down_for": "🔴 **Network currently down** (for {dur})",
   "info.uptime.net_down": "🔴 **Network currently down**",
   "info.uptime.footer_external": "{footer} • Monitored externally",
-
   "info.botstatus.version": "**Version:** `{version}`",
   "info.botstatus.uptime_name": "⏱️ Uptime",
   "info.botstatus.guild_users_name": "👥 Guild Users",
@@ -1171,7 +1149,6 @@
   "info.botstatus.poll_name": "📊 Polling",
   "info.botstatus.support_name": "💬 Support",
   "info.botstatus.support_value": "[Join Server]({url})",
-
   "info.serializd.title": "📺 What is Serializd?",
   "info.serializd.desc": "**Serializd** is a social platform for tracking and discovering TV shows, similar to Letterboxd for movies.\n\nTrack what you watch, rate episodes, write reviews, and share your TV journey with friends!",
   "info.serializd.features_name": "✨ Key Features",
@@ -1181,7 +1158,6 @@
   "info.serializd.start_name": "🚀 Getting Started",
   "info.serializd.start_value": "1. Create a free account at [serializd.com](https://www.serializd.com/)\n2. Start logging the shows you watch\n3. Ask a server admin to add your username with `/adduser`\n4. Your diary entries will auto-post to Discord!",
   "info.serializd.visit_btn": "Visit Serializd",
-
   "info.admininfo.title": "⚙️ Server Configuration",
   "info.admininfo.desc": "Current bot settings for this server",
   "info.admininfo.channel_unset": "❌ None - Use `/setchannel {field}` to set",
@@ -1192,7 +1168,6 @@
   "info.admininfo.newep_name": "📺 New Episodes Channel",
   "info.admininfo.perms_name": "🔐 Permission Groups",
   "info.admininfo.perms_value": "👑 **Admin:** {admin} assignment(s)\n🛡️ **Mod:** {mod} assignment(s)\n👤 **User:** everyone (default)\nUse `/roleview` to manage groups",
-
   "info.help.title": "🤖 Serializd Bot Help",
   "info.help.desc": "Track Serializd diary entries in Discord!",
   "info.help.quickstart_name": "📺 Quick Start",
@@ -1203,12 +1178,10 @@
   "info.help.creator_value": "[Kjerne's Serializd Profile](https://www.serializd.com/user/Kjerne/profile)",
   "info.help.support_name": "💬 Support",
   "info.help.support_value": "[Join Support Server]({url})",
-
   "info.bots.title": "🤖 Kjernes Tracker Bots",
   "info.bots.letterboxd_name": "🎬 Letterboxd Tracker Bot",
   "info.bots.serializd_name": "📺 Serializd Tracker Bot",
   "info.bots.invite_link": "[Bot Invite]({url})",
-
   "info.privacy.title": "🔒 Privacy Policy",
   "info.privacy.desc": "Here's a simple breakdown of what data this bot stores and why.",
   "info.privacy.store_name": "📝 What We Store",
@@ -1224,9 +1197,7 @@
   "info.privacy.footer": "{bot} • All data stored securely in local database",
   "info.privacy.tos_btn": "Terms of Service",
   "info.privacy.privacy_btn": "Privacy Policy",
-
   "info.changelog.none": "ℹ️ No changelogs have been published yet.\nCheck back after the next bot update!",
-
   "info.upcoming.no_link": "❌ {user} doesn't have a linked Serializd account.\nAsk an admin to link them with `/edituser`.",
   "info.upcoming.no_tracked": "❌ No users are being tracked in this server.\nUse `/adduser` to start tracking users.",
   "info.upcoming.tracked_users_word": "tracked users",

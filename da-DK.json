@@ -577,7 +577,7 @@
   "cfgshare.corrupted": "❌ Konfigurationsdata er beskadiget. Bed den oprindelige server om at eksportere på ny.",
   "cfgshare.import_title": "📥 Importér konfiguration: `{code}`",
   "cfgshare.import_desc": "Eksporteret: {date}\n\n**Dette overskriver dine nuværende indstillinger.**\nKanal- og rolleindstillinger er uændrede.",
-  "cfgshare.unknown": "ukendt",
+  "cfgshare.unknown": "Ukendt",
   "cfgshare.pfx_thumbnail": "Miniature: `{value}`",
   "cfgshare.pfx_watch_filter": "Se-filter: `{value}`",
   "cfgshare.pfx_timestamp": "Tidsstempel: `{value}`",

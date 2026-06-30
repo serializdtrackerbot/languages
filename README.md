@@ -22,7 +22,6 @@ Want the bot in your language? It's just one file.
    The right side (`✅ User Removed`) is the text - **translate that**.
 
 4. Translate every right-side value. Leave the left side and the structure alone.
-5. Done. Send it in / drop it in the `locales/` folder. The bot picks it up on restart.
 
 ## Rules (just a few)
 

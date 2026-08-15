@@ -405,6 +405,7 @@
   "stats.rank_1_10": "Sıra 1-10",
   "stats.rank_11_20": "Sıra 11-20",
   "stats.rankings": "Sıralamalar",
+  "stats.bot_owner": "👑 Bot Sahibi",
   "stats.no_data": "Veri yok",
   "stats.insights_title": "📈 Sunucu İçgörüleri",
   "stats.insights_ratings": "⭐ Puan Dağılımı (ort. {avg}/5, {rated} puanlandı)",
@@ -1363,6 +1364,5 @@
   "show.btn_whoswatching": "Kimler izliyor",
   "show.btn_overview": "Genel bakış",
   "stats.trending_detail": "{users} benzersiz kullanıcı · {entries} bölüm",
-  "stats.trending_detail_bold": "**{users}** benzersiz kullanıcı · {entries} bölüm",
-  "embed.full_season_counted": "{n} bölüm sayıldı"
+  "stats.trending_detail_bold": "**{users}** benzersiz kullanıcı · {entries} bölüm"
 }

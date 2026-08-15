@@ -405,6 +405,7 @@
   "stats.rank_1_10": "Plads 1-10",
   "stats.rank_11_20": "Plads 11-20",
   "stats.rankings": "Placeringer",
+  "stats.bot_owner": "👑 Botejer",
   "stats.no_data": "Ingen data tilgængelig",
   "stats.insights_title": "📈 Serverindsigt",
   "stats.insights_ratings": "⭐ Bedømmelsesfordeling (gns. {avg}/5, {rated} bedømt)",
@@ -1363,6 +1364,5 @@
   "show.btn_whoswatching": "Hvem ser med",
   "show.btn_overview": "Oversigt",
   "stats.trending_detail": "{users} unikke brugere · {entries} afsnit",
-  "stats.trending_detail_bold": "**{users}** unikke brugere · {entries} afsnit",
-  "embed.full_season_counted": "{n} afsnit talt"
+  "stats.trending_detail_bold": "**{users}** unikke brugere · {entries} afsnit"
 }

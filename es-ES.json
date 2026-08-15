@@ -405,6 +405,7 @@
   "stats.rank_1_10": "Puesto 1-10",
   "stats.rank_11_20": "Puesto 11-20",
   "stats.rankings": "Clasificaciones",
+  "stats.bot_owner": "👑 Dueño del bot",
   "stats.no_data": "No hay datos disponibles",
   "stats.insights_title": "📈 Análisis del servidor",
   "stats.insights_ratings": "⭐ Distribución de valoraciones (media {avg}/5, {rated} valoradas)",
@@ -1363,6 +1364,5 @@
   "show.btn_whoswatching": "Quién lo está viendo",
   "show.btn_overview": "Resumen",
   "stats.trending_detail": "{users} usuarios únicos · {entries} episodios",
-  "stats.trending_detail_bold": "**{users}** usuarios únicos · {entries} episodios",
-  "embed.full_season_counted": "{n} episodios contados"
+  "stats.trending_detail_bold": "**{users}** usuarios únicos · {entries} episodios"
 }

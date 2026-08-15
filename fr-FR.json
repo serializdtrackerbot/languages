@@ -405,6 +405,7 @@
   "stats.rank_1_10": "Rang 1-10",
   "stats.rank_11_20": "Rang 11-20",
   "stats.rankings": "Classements",
+  "stats.bot_owner": "👑 Propriétaire du bot",
   "stats.no_data": "Aucune donnée disponible",
   "stats.insights_title": "📈 Analyses de la guilde",
   "stats.insights_ratings": "⭐ Répartition des notes (moy. {avg}/5, {rated} notées)",
@@ -1363,6 +1364,5 @@
   "show.btn_whoswatching": "Qui regarde",
   "show.btn_overview": "Aperçu",
   "stats.trending_detail": "{users} utilisateur{s} unique{s} · {entries} épisodes",
-  "stats.trending_detail_bold": "**{users}** utilisateur{s} unique{s} · {entries} épisodes",
-  "embed.full_season_counted": "{n} épisodes comptés"
+  "stats.trending_detail_bold": "**{users}** utilisateur{s} unique{s} · {entries} épisodes"
 }

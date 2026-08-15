@@ -405,6 +405,7 @@
   "stats.rank_1_10": "Plass 1-10",
   "stats.rank_11_20": "Plass 11-20",
   "stats.rankings": "Rangeringer",
+  "stats.bot_owner": "👑 Bot-eier",
   "stats.no_data": "Ingen data tilgjengelig",
   "stats.insights_title": "📈 Serverinnsikt",
   "stats.insights_ratings": "⭐ Vurderingsfordeling (snitt {avg}/5, {rated} vurdert)",
@@ -1363,6 +1364,5 @@
   "show.btn_whoswatching": "Hvem ser på",
   "show.btn_overview": "Oversikt",
   "stats.trending_detail": "{users} unike brukere · {entries} episoder",
-  "stats.trending_detail_bold": "**{users}** unike brukere · {entries} episoder",
-  "embed.full_season_counted": "{n} episoder telt"
+  "stats.trending_detail_bold": "**{users}** unike brukere · {entries} episoder"
 }

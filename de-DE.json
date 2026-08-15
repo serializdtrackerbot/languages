@@ -405,6 +405,7 @@
   "stats.rank_1_10": "Rang 1-10",
   "stats.rank_11_20": "Rang 11-20",
   "stats.rankings": "Ranglisten",
+  "stats.bot_owner": "👑 Bot-Besitzer",
   "stats.no_data": "Keine Daten verfügbar",
   "stats.insights_title": "📈 Server-Einblicke",
   "stats.insights_ratings": "⭐ Bewertungsverteilung (Ø {avg}/5, {rated} bewertet)",
@@ -1363,6 +1364,5 @@
   "show.btn_whoswatching": "Wer schaut gerade",
   "show.btn_overview": "Übersicht",
   "stats.trending_detail": "{users} einzelne Nutzer · {entries} Folgen",
-  "stats.trending_detail_bold": "**{users}** einzelne Nutzer · {entries} Folgen",
-  "embed.full_season_counted": "{n} Folgen gezählt"
+  "stats.trending_detail_bold": "**{users}** einzelne Nutzer · {entries} Folgen"
 }

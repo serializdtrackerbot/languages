@@ -405,6 +405,7 @@
   "stats.rank_1_10": "Plats 1-10",
   "stats.rank_11_20": "Plats 11-20",
   "stats.rankings": "Rankningar",
+  "stats.bot_owner": "👑 Botägare",
   "stats.no_data": "Ingen data tillgänglig",
   "stats.insights_title": "📈 Serverinsikter",
   "stats.insights_ratings": "⭐ Betygsfördelning (snitt {avg}/5, {rated} betygsatta)",
@@ -1363,6 +1364,5 @@
   "show.btn_whoswatching": "Vilka tittar",
   "show.btn_overview": "Översikt",
   "stats.trending_detail": "{users} unika användare · {entries} avsnitt",
-  "stats.trending_detail_bold": "**{users}** unika användare · {entries} avsnitt",
-  "embed.full_season_counted": "{n} avsnitt räknade"
+  "stats.trending_detail_bold": "**{users}** unika användare · {entries} avsnitt"
 }
